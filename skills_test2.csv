@@ -1,0 +1,201 @@
+size,location,bedrooms,bathrooms,garden,condition,price
+134,city,2,3,small,good,134226.8141344553
+143,city,2,2,medium,excellent,151067.9714163118
+183,city,2,2,large,excellent,172371.67632926544
+183,country,2,1,large,good,110210.21529338032
+199,country,2,3,small,excellent,130622.76336248238
+209,city,2,1,medium,excellent,185663.1898604834
+219,country,2,3,small,good,133031.4586865002
+221,country,2,2,large,good,131308.50260795004
+225,city,2,1,small,excellent,198061.50512915803
+227,city,2,1,small,good,190420.18097304853
+230,city,2,1,medium,work needed,175404.33232204965
+233,country,2,1,medium,excellent,146718.53468004672
+233,country,2,1,small,work needed,130065.56187538174
+238,country,2,2,large,excellent,153082.09556966074
+247,city,2,2,small,work needed,186183.65571895931
+255,country,2,3,small,work needed,149260.28933634574
+267,country,2,1,large,excellent,168592.01163025518
+269,city,2,3,large,good,209130.6796089244
+270,country,2,2,small,excellent,170129.6835156706
+272,country,2,1,small,excellent,175021.84553011882
+278,city,2,2,small,excellent,233223.6299183977
+279,city,2,3,large,work needed,207020.05487858423
+279,country,2,3,medium,good,163466.6957490214
+279,city,2,3,large,work needed,214411.539522766
+282,country,2,3,large,work needed,163591.14999161928
+283,city,2,3,large,good,214455.5011201449
+290,country,2,1,medium,work needed,164836.29619573767
+291,city,2,2,medium,work needed,212805.59682120036
+293,country,2,3,small,excellent,181422.4846206707
+295,country,2,2,medium,work needed,167765.4814850938
+300,country,2,3,small,work needed,167783.82819030818
+301,city,2,3,small,good,233922.74117403931
+302,city,2,2,large,work needed,218973.40672296585
+305,city,2,1,large,good,231030.49443199905
+308,city,2,1,small,work needed,226829.5273006109
+311,country,2,2,large,work needed,177753.38118471688
+312,country,2,1,small,good,190953.75427212374
+313,country,2,1,medium,work needed,186475.3297665753
+316,country,2,3,large,excellent,203578.76603692851
+317,country,2,1,large,good,191084.11752186544
+318,country,2,3,medium,good,190094.53536867737
+319,country,2,3,small,excellent,198474.0648010449
+320,country,2,1,medium,excellent,205926.917326878
+323,city,2,1,medium,excellent,257377.1491256869
+323,city,2,3,medium,good,236683.061492184
+328,country,2,1,small,excellent,212737.32053877725
+332,city,2,2,large,work needed,240056.59779799634
+332,city,2,1,large,good,252558.4837894589
+336,country,2,2,small,work needed,191886.9455105999
+339,city,2,3,large,work needed,242666.6295327018
+340,country,2,1,large,good,202582.7241340769
+341,city,2,3,large,work needed,244264.21084447397
+341,city,3,1,large,excellent,267692.454058424
+343,city,3,3,small,work needed,250031.8568376915
+345,country,3,2,medium,work needed,208493.0446326315
+346,country,3,3,large,work needed,208358.13530269003
+349,city,3,3,small,excellent,272107.1503889204
+350,country,3,2,large,good,207966.6675567558
+350,country,3,3,small,excellent,227641.71095796145
+351,country,3,1,small,excellent,225364.88952927804
+352,city,3,1,medium,work needed,252784.35210163443
+354,country,3,3,large,excellent,226437.56762082185
+355,city,3,1,small,work needed,258861.3769473809
+357,city,3,1,small,work needed,252010.51042358734
+358,city,3,1,medium,work needed,253681.47766852975
+362,city,3,2,medium,good,276402.54080022377
+363,city,3,3,medium,work needed,265316.7854051319
+364,country,3,3,medium,work needed,215532.3538369719
+364,city,3,3,medium,good,267016.466414054
+366,city,3,3,small,excellent,282036.6136113209
+366,city,3,3,small,excellent,273474.2126117787
+368,country,3,3,medium,work needed,216562.38329264795
+370,country,3,3,medium,good,221374.58536356525
+373,city,3,3,small,work needed,270289.87640049536
+375,country,3,2,large,excellent,240020.21509185122
+378,country,3,2,large,excellent,239955.50990302514
+379,city,3,2,small,good,280885.039166903
+379,city,3,3,large,excellent,295086.3930882201
+380,country,3,2,small,excellent,239742.2010070877
+381,city,3,1,small,good,282767.03981429274
+384,country,3,2,large,excellent,243933.91337545213
+386,city,3,3,large,excellent,288005.135818864
+386,country,3,2,small,work needed,222980.30838502507
+386,city,3,1,large,excellent,294435.4224123446
+387,country,3,1,medium,good,236036.74795739332
+387,city,3,2,large,excellent,296156.6497149482
+390,city,3,3,large,work needed,286414.6026457326
+390,country,3,1,large,work needed,233742.25209679853
+393,city,3,2,small,excellent,302389.7033047155
+393,country,3,1,small,work needed,228932.9214450071
+393,city,3,1,small,work needed,286832.0568700019
+396,country,3,2,medium,excellent,246946.9691338434
+396,country,3,2,large,good,243446.59642923597
+398,city,4,3,medium,excellent,310966.9994362482
+399,country,4,1,medium,work needed,245573.605161599
+399,city,4,1,small,good,294949.79481460614
+399,country,4,3,small,work needed,235348.15423202736
+401,country,4,1,large,good,247360.2693859893
+402,city,4,1,medium,good,302235.28902653017
+402,city,4,2,small,work needed,285745.94099018193
+404,country,4,1,large,work needed,241601.380715896
+404,country,4,3,medium,good,251497.98483477064
+404,city,4,1,large,excellent,306049.50656386896
+406,country,4,1,large,excellent,266572.4699202629
+409,country,4,2,medium,excellent,259369.2818978465
+411,city,4,1,medium,good,310416.0831172632
+412,city,4,3,medium,work needed,292415.64849030174
+413,country,4,2,small,good,251175.89138481152
+413,city,4,1,medium,good,310316.5009799475
+413,city,4,1,medium,excellent,324033.31524470396
+413,city,4,3,small,work needed,302955.01354504295
+415,country,4,3,large,excellent,270157.41303750407
+415,country,4,3,medium,good,259328.81934269157
+417,country,4,1,large,good,265194.8248564066
+417,city,4,2,small,good,301095.351086757
+418,city,4,3,medium,good,311526.59482703847
+419,country,4,1,large,excellent,273582.7903175344
+420,city,4,2,medium,good,310555.3976066631
+424,city,4,2,small,excellent,321799.76784338494
+425,city,4,3,large,good,320094.1049311894
+426,country,4,1,small,excellent,275941.2991789095
+429,city,4,1,small,good,313566.29847018846
+430,city,4,2,large,work needed,310143.41499001207
+430,country,4,1,medium,good,267764.528244326
+430,city,4,1,large,good,314939.06672374805
+434,country,4,2,large,work needed,257941.22343715583
+437,city,4,2,medium,work needed,306866.1777502343
+437,city,4,1,medium,work needed,308941.5712124652
+441,city,4,3,medium,work needed,309645.1429020662
+442,country,4,2,large,work needed,272213.3161748313
+443,city,4,1,medium,work needed,320418.94252366194
+445,city,4,2,large,excellent,335956.1406614189
+445,city,4,2,large,good,332568.51603764755
+446,country,4,2,large,good,282670.78624607174
+447,city,4,2,large,excellent,331378.05198119226
+449,city,4,1,large,work needed,317355.40691012435
+449,country,4,2,small,good,276058.7725481763
+449,city,4,3,medium,excellent,339327.1268425393
+450,city,4,2,large,work needed,315562.0240795936
+451,city,4,1,large,excellent,340365.2771171991
+453,city,4,3,medium,good,333321.8197644026
+454,city,4,2,large,good,327291.9334083605
+460,country,4,1,medium,excellent,296779.2044334676
+461,city,4,1,large,work needed,327304.63204279327
+463,country,4,3,medium,work needed,271269.4831926474
+463,country,4,2,large,excellent,294846.4262340751
+463,city,4,2,medium,good,340692.4851633742
+465,country,4,1,small,good,286680.5297090922
+465,country,5,2,small,excellent,310730.3842271866
+465,country,5,3,medium,excellent,307616.4870052686
+466,city,5,1,small,work needed,332966.1981253244
+470,city,5,1,medium,good,344576.17060905666
+471,city,5,1,large,work needed,330699.5302414049
+472,country,5,1,large,work needed,285930.777001183
+478,country,5,3,medium,excellent,314075.86743310397
+479,city,5,3,small,excellent,351647.4043285828
+482,country,5,1,large,work needed,291915.39392816724
+486,city,5,1,small,work needed,341769.6419499409
+486,country,5,3,large,good,303623.2470608095
+492,city,5,1,large,work needed,350330.3902392094
+492,country,5,2,small,good,300786.2834813901
+494,city,5,3,large,work needed,352835.5727494497
+496,country,5,2,large,excellent,323695.2814637928
+498,country,5,3,medium,work needed,299718.71437290934
+501,country,5,1,small,good,313460.25922038924
+503,city,5,3,large,work needed,349597.9838951733
+504,country,5,1,medium,good,317698.2632982159
+505,city,5,1,small,excellent,377616.1207973324
+507,city,5,1,large,work needed,356958.39214665897
+512,country,5,1,small,work needed,317236.90286925406
+513,country,5,3,large,work needed,307970.288442316
+514,country,5,2,large,good,317611.2851922926
+514,country,5,2,medium,excellent,329608.537213645
+517,country,5,2,large,work needed,316938.8571801426
+519,city,5,3,large,good,377215.7357483738
+521,country,5,3,small,good,318020.0188430016
+524,city,5,2,medium,good,376545.69226460496
+526,country,5,2,small,excellent,336937.8148912429
+531,country,5,1,medium,good,330845.29325473326
+540,country,5,2,small,excellent,354174.00080663245
+543,country,5,2,large,good,340895.67183079536
+547,country,5,2,large,excellent,351403.54869500024
+547,country,5,3,small,good,347320.3827258547
+549,city,5,1,small,excellent,399775.7504198742
+551,city,5,2,medium,work needed,385185.9454890584
+561,country,5,1,large,good,348933.1769205158
+562,country,5,3,large,work needed,351891.1740453479
+564,city,5,1,large,good,406859.94023929304
+570,country,5,3,large,excellent,369406.87396345136
+571,country,5,3,large,work needed,351747.65577161236
+575,country,5,1,medium,good,356225.51444978843
+594,city,5,1,large,good,427953.64363404654
+597,country,5,1,large,work needed,353332.206082738
+600,country,5,3,small,excellent,393853.4694938239
+602,country,5,1,small,good,379946.3977715173
+609,city,5,1,small,good,426123.3079726369
+612,city,5,1,small,work needed,431943.933902824
+621,country,5,3,large,work needed,372977.5870572043
+649,city,5,3,large,work needed,445516.2565942932
+684,city,5,2,medium,work needed,470853.864028267
