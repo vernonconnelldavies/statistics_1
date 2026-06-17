@@ -1,0 +1,1 @@
+This repository is purely a place to put the CSV file in relation to the skills test 2 with module statistics 1 with MSc Applied data analytics. The data is regarding housing information with regard to real estate prices.
